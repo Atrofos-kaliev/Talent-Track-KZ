@@ -1,0 +1,145 @@
+[
+  {
+    "category_ru": "IT и Программирование",
+    "category_kz": "IT және Бағдарламалау",
+    "resources": [
+      {
+        "name": "Qwant Talent (ранее Method)",
+        "description_ru": "Казахстанская платформа с курсами по программированию, дизайну и маркетингу.",
+        "description_kz": "Бағдарламалау, дизайн және маркетинг бойынша курстары бар қазақстандық платформа.",
+        "link": "https://qwant.kz/",
+        "tags": ["kazakhstan", "paid", "programming", "design", "marketing"]
+      },
+      {
+        "name": "Alem School (01Edu System)",
+        "description_ru": "Инновационная школа программирования в Казахстане, работающая по системе peer-to-peer обучения.",
+        "description_kz": "Peer-to-peer оқыту жүйесі бойынша жұмыс істейтін Қазақстандағы инновациялық бағдарламалау мектебі.",
+        "link": "https://alem.school/",
+        "tags": ["kazakhstan", "free", "programming", "intensive"]
+      },
+      {
+        "name": "KBTU (Казахстанско-Британский Технический Университет)",
+        "description_ru": "Предлагает программы бакалавриата и магистратуры в области IT и инженерии.",
+        "description_kz": "IT және инженерия саласында бакалавриат және магистратура бағдарламаларын ұсынады.",
+        "link": "https://kbtu.edu.kz/",
+        "tags": ["kazakhstan", "university", "degree", "it", "engineering"]
+      },
+      {
+        "name": "Astana IT University",
+        "description_ru": "Специализированный ВУЗ в области информационных технологий.",
+        "description_kz": "Ақпараттық технологиялар саласындағы мамандандырылған ЖОО.",
+        "link": "https://astanait.edu.kz/",
+        "tags": ["kazakhstan", "university", "degree", "it"]
+      },
+      {
+        "name": "Stepik",
+        "description_ru": "Платформа с множеством бесплатных и платных курсов на русском языке, включая программирование, анализ данных.",
+        "description_kz": "Орыс тілінде көптеген тегін және ақылы курстары бар платформа, соның ішінде бағдарламалау, деректерді талдау.",
+        "link": "https://stepik.org/",
+        "tags": ["russian", "free", "paid", "programming", "data_analysis"]
+      },
+      {
+        "name": "Coursera",
+        "description_ru": "Международная платформа с курсами от ведущих университетов и компаний. Много курсов с русскими субтитрами или переводом.",
+        "description_kz": "Жетекші университеттер мен компаниялардың курстары бар халықаралық платформа. Көптеген курстар орыс субтитрлерімен немесе аудармасымен.",
+        "link": "https://www.coursera.org/",
+        "tags": ["international", "paid", "free_options", "various_topics"]
+      },
+      {
+        "name": "YouTube (Хауди Хо, Ulbi TV, etc.)",
+        "description_ru": "Множество каналов с бесплатными уроками по программированию на русском языке.",
+        "description_kz": "Орыс тілінде бағдарламалау бойынша тегін сабақтары бар көптеген арналар.",
+        "link": "https://www.youtube.com/",
+        "tags": ["free", "video_tutorials", "programming", "russian"]
+      }
+    ]
+  },
+  {
+    "category_ru": "Дизайн и Творчество",
+    "category_kz": "Дизайн және Шығармашылық",
+    "resources": [
+      {
+        "name": "КазНАИ им. Т.К. Жургенова",
+        "description_ru": "Ведущая академия искусств в Казахстане.",
+        "description_kz": "Қазақстандағы жетекші өнер академиясы.",
+        "link": "https://kaznai.kz/",
+        "tags": ["kazakhstan", "university", "degree", "art", "design"]
+      },
+      {
+        "name": "Bang Bang Education",
+        "description_ru": "Онлайн-школа дизайна с курсами на русском языке.",
+        "description_kz": "Орыс тілінде курстары бар онлайн-дизайн мектебі.",
+        "link": "https://bangbangeducation.ru/",
+        "tags": ["russian", "paid", "design", "online_school"]
+      },
+      {
+        "name": "Skillbox (Дизайн)",
+        "description_ru": "Курсы по графическому дизайну, UI/UX, веб-дизайну с фокусом на рынок СНГ.",
+        "description_kz": "ТМД нарығына бағытталған графикалық дизайн, UI/UX, веб-дизайн курстары.",
+        "link": "https://skillbox.kz/courses/design/",
+        "tags": ["kazakhstan", "russian", "paid", "design"]
+      },
+      {
+        "name": "Behance / Dribbble",
+        "description_ru": "Платформы для демонстрации портфолио и поиска вдохновения для дизайнеров.",
+        "description_kz": "Дизайнерлер үшін портфолио көрсетуге және шабыт іздеуге арналған платформалар.",
+        "link": "https://www.behance.net/",
+        "tags": ["international", "portfolio", "inspiration", "design"]
+      }
+    ]
+  },
+  {
+    "category_ru": "Маркетинг и SMM",
+    "category_kz": "Маркетинг және SMM",
+    "resources": [
+      {
+        "name": "Convert Monster (Казахстан)",
+        "description_ru": "Курсы и тренинги по интернет-маркетингу, SMM, таргетированной рекламе.",
+        "description_kz": "Интернет-маркетинг, SMM, мақсатты жарнама бойынша курстар мен тренингтер.",
+        "link": "https://convertmonster.kz/",
+        "tags": ["kazakhstan", "paid", "marketing", "smm"]
+      },
+      {
+        "name": "Нетология (Маркетинг)",
+        "description_ru": "Обширные программы по различным направлениям маркетинга на русском языке.",
+        "description_kz": "Орыс тілінде маркетингтің әртүрлі бағыттары бойынша ауқымды бағдарламалар.",
+        "link": "https://netology.ru/marketing",
+        "tags": ["russian", "paid", "marketing", "online_school"]
+      },
+      {
+        "name": "Facebook Blueprint",
+        "description_ru": "Бесплатные официальные курсы по рекламе в Facebook и Instagram.",
+        "description_kz": "Facebook және Instagram-дағы жарнама бойынша тегін ресми курстар.",
+        "link": "https://www.facebook.com/business/learn",
+        "tags": ["international", "free", "smm", "advertising"]
+      }
+    ]
+  },
+  {
+    "category_ru": "Общие и Карьерные Ресурсы",
+    "category_kz": "Жалпы және Мансаптық Ресурстар",
+    "resources": [
+      {
+        "name": "hh.kz (HeadHunter Казахстан)",
+        "description_ru": "Крупнейший сайт по поиску работы и сотрудников в Казахстане. Также есть раздел с курсами и образовательными программами.",
+        "description_kz": "Қазақстандағы жұмыс және қызметкерлерді іздеу бойынша ең ірі сайт. Сондай-ақ курстар мен білім беру бағдарламалары бар бөлім бар.",
+        "link": "https://hh.kz/",
+        "tags": ["kazakhstan", "job_search", "courses"]
+      },
+      {
+        "name": "enbek.kz",
+        "description_ru": "Государственный портал по трудоустройству и занятости в Казахстане.",
+        "description_kz": "Қазақстандағы жұмысқа орналастыру және жұмыспен қамту бойынша мемлекеттік портал.",
+        "link": "https://www.enbek.kz/",
+        "tags": ["kazakhstan", "job_search", "government"]
+      },
+      {
+        "name": "LinkedIn Learning",
+        "description_ru": "Платформа с видеокурсами по бизнесу, технологиям и творческим навыкам. Часто доступна пробная версия.",
+        "description_kz": "Бизнес, технологиялар және шығармашылық дағдылар бойынша видеокурстары бар платформа. Сынақ нұсқасы жиі қол жетімді.",
+        "link": "https://www.linkedin.com/learning/",
+        "tags": ["international", "paid", "trial", "various_topics"]
+      }
+    ]
+  }
+]

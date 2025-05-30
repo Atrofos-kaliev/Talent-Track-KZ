@@ -1,0 +1,128 @@
+/* ProfessionDetail.module.css */
+
+.container {
+  max-width: 800px; /* Ограничиваем максимальную ширину для лучшей читаемости */
+  margin: 0 auto; /* Центрируем контейнер */
+  padding: 2rem 1.5rem; /* Внутренние отступы */
+  background-color: #ffffff; /* Белый фон для контента */
+  border-radius: 8px; /* Слегка скругленные углы */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); /* Мягкая тень */
+  color: #333; /* Основной цвет текста */
+  line-height: 1.7; /* Улучшаем читаемость текста */
+}
+
+.header {
+  text-align: center; /* Центрируем заголовок */
+  margin-bottom: 2rem; /* Отступ снизу */
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e0e0e0; /* Разделитель под заголовком */
+}
+
+.title {
+  font-size: 2.5rem; /* Размер основного заголовка */
+  font-weight: 700; /* Жирное начертание */
+  color: #1a202c; /* Темно-серый, почти черный */
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  font-size: 1.5rem; /* Размер подзаголовка */
+  font-weight: 500;
+  color: #4a5568; /* Серый цвет для подзаголовка */
+  margin-top: 0;
+}
+
+.hr {
+  border: none; /* Убираем стандартную границу */
+  height: 1px; /* Высота линии */
+  background-color: #e2e8f0; /* Цвет линии */
+  margin: 2.5rem 0; /* Вертикальные отступы */
+}
+
+.section {
+  margin-bottom: 2.5rem; /* Отступ между секциями */
+}
+
+.section:last-child {
+  margin-bottom: 0; /* Убираем отступ у последней секции */
+}
+
+.sectionTitle {
+  font-size: 1.75rem; /* Размер заголовка секции */
+  font-weight: 600;
+  color: #2d3748; /* Темно-серый */
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #718096; /* Акцентная линия под заголовком секции */
+  display: inline-block; /* Чтобы border-bottom был по ширине текста */
+}
+
+.paragraph {
+  font-size: 1rem; /* Размер текста параграфа */
+  color: #4a5568; /* Цвет текста параграфа */
+  margin-bottom: 1rem; /* Отступ между параграфами */
+}
+
+.paragraph:last-child {
+  margin-bottom: 0;
+}
+
+.label {
+  font-weight: 600; /* Жирный текст для меток */
+  color: #2d3748;
+  margin-right: 0.5rem; /* Небольшой отступ справа от метки */
+}
+
+.list {
+  list-style: none; /* Убираем стандартные маркеры списка */
+  padding-left: 0; /* Убираем стандартный отступ слева */
+}
+
+.listItem {
+  font-size: 1rem;
+  color: #4a5568;
+  background-color: #f7fafc; /* Светло-серый фон для элементов списка */
+  padding: 0.75rem 1rem; /* Внутренние отступы */
+  margin-bottom: 0.5rem; /* Отступ между элементами списка */
+  border-radius: 6px; /* Скругленные углы */
+  border-left: 4px solid #4299e1; /* Акцентная линия слева (например, синяя) */
+  transition: background-color 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+
+.listItem:hover {
+  background-color: #edf2f7; /* Немного темнее фон при наведении */
+  transform: translateX(2px); /* Легкий сдвиг при наведении */
+}
+
+/* Адаптивность (необязательно, но полезно) */
+@media (max-width: 768px) {
+  .title {
+    font-size: 2rem;
+  }
+  .subtitle {
+    font-size: 1.25rem;
+  }
+  .sectionTitle {
+    font-size: 1.5rem;
+  }
+  .container {
+    padding: 1.5rem 1rem;
+    margin: 1rem; /* Добавляем отступы по бокам на маленьких экранах */
+    width: auto; /* Чтобы контейнер занимал доступную ширину минус отступы */
+  }
+}
+
+@media (max-width: 480px) {
+  .title {
+    font-size: 1.75rem;
+  }
+  .subtitle {
+    font-size: 1.1rem;
+  }
+  .sectionTitle {
+    font-size: 1.3rem;
+  }
+  .paragraph, .listItem {
+    font-size: 0.95rem;
+  }
+}
